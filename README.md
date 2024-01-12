@@ -6,7 +6,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://photos.fife.usercontent.google.com/pw/ABLVV84n-SO3rK8eY6cnJ3ZwCo2_nDA_J5uqGd5sGreuAghx7PQMrlBeGjYaYA=w1649-h928-s-no-gm?authuser=1" />
 
 <p align="center">
  
