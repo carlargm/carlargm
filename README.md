@@ -6,18 +6,17 @@
 <p align="center"> 
 <img src="https://i.ytimg.com/vi/FaggfsUdqQ4/maxresdefault.jpg" width="1080px"/>
 
+<p align="center"> 
 <h1>About me:</h1>
 
 <a href="https://github.com/carlargm">   
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+  <img align="right" src="https://tenor.com/pt-BR/view/coding-gif-25731151.gif" width="180">
 </a>
 <p align="center">As a Software Quality Analyst, graduated in Software Analysis and Development and currently studying Software Engineering, I have a solid theoretical and practical foundation that enables me to play a fundamental role in ensuring the quality of software products..</p>
 <p align="center">Currently, I am further enriching my academic baggage, studying Software Engineering 🚀.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h1>I'm learning:</h1>
-
-
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -41,8 +40,6 @@
   <img src="https://tenor.com/pt-BR/view/inviicta-viic-hero-twitch-hero-super-hero-gif-24937814.gif" alt="Uncle Iroh" width="300" />
 </p>
 </dif>
-  
- <p align="center">
   
   <h2>Contact:
  <a href="https://github.com/carlargm"></a>
