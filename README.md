@@ -2,7 +2,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Eu+sou+Carla+Regina;seja+Bem+vindo!+)](https://git.io/typing-svg)
- 
+
+<p align="center"> 
+<img src="https://i.ytimg.com/vi/FaggfsUdqQ4/maxresdefault.jpg" width="1080px"/>
  
  <h1>Estou Aprendendo:</h1>
 
