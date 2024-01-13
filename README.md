@@ -22,7 +22,7 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlargm&show_icons=true&theme=radical&includ_ali_comits=true&count_private=true"> 
 
 <p align="center">
-  <img src="https://media.tenor.com/_PEwdam8b84AAAAC/iroh-tea.gif" alt="Uncle Iroh" width="300" />
+  <img src="https://tenor.com/pt-BR/view/inviicta-viic-hero-twitch-hero-super-hero-gif-24937814.gif" alt="Uncle Iroh" width="300" />
 </p>
 </dif>
   
