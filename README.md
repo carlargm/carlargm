@@ -6,7 +6,7 @@
 <p align="center"> 
 <img src="https://i.ytimg.com/vi/FaggfsUdqQ4/maxresdefault.jpg" width="1080px"/>
  
- <h1>Estou Aprendendo:</h1>
+ <h1>I'm learning:</h1>
 
 
 <p align="center">
@@ -35,7 +35,7 @@
   
  <p align="center">
   
-  <h2>Contato:
+  <h2>Contact:
  <a href="https://github.com/carlargm"></a>
     <p align="center">
   <a href="https://www.instagram.com/carla.moreira3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
