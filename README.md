@@ -1,6 +1,7 @@
  Olá eu sou a Carla👋
  <h1>Estou Aprendendo:</h1>
 
+
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -19,10 +20,12 @@
  <p align="center">
 <a href="https://beacons.ai/carlargm">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlargm&show_icons=true&theme=radical&includ_ali_comits=true&count_private=true"> 
- <img align="right" alt="baby-yoda" src="https://tenor.com/pt-BR/view/the-mandalorian-mandalorian-yoda-baby-yoda-wave-gif-17679713>
 
- 
-<div> 
+<p align="center">
+  <img src="https://media.tenor.com/_PEwdam8b84AAAAC/iroh-tea.gif" alt="Uncle Iroh" width="300" />
+</p>
+</dif>
+  
  <p align="center">
   
   <h2>Contato:
