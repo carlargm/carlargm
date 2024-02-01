@@ -36,6 +36,8 @@
 <a href="https://beacons.ai/carlargm">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlargm&show_icons=true&theme=radical&includ_ali_comits=true&count_private=true"> 
  <a href="https://github.com/carlargm/github-readme-stats">
+   <br>
+   <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlargm&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
   </a>
   
