@@ -35,7 +35,10 @@
  <p align="center">
 <a href="https://beacons.ai/carlargm">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlargm&show_icons=true&theme=radical&includ_ali_comits=true&count_private=true"> 
-
+ <a href="https://github.com/carlargm/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlargm&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
+  </a>
+  
 <p align="center">
   <img src="https://tenor.com/pt-BR/view/inviicta-viic-hero-twitch-hero-super-hero-gif-24937814.gif" alt="Uncle Iroh" width="300" />
 </p>
