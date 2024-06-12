@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Carla+Regina;+Welcome!+)](https://git.io/typing-svg)
 
 <p align="center"> 
-<img src="https://i.ytimg.com/vi/FaggfsUdqQ4/maxresdefault.jpg" width="1080px"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV1MmhrMG82bHhmdmJxdmt2bmcyZHRyeTI3bGEwb2NvbnQ1ejVwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njZPp4pQ0g4fe/giphy.gif" width="1000">
 
 <p align="center"> 
 <h1>About me:</h1>
