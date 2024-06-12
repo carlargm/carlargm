@@ -76,35 +76,26 @@
  </tr>
 </table>
 <br><br>
-
-
 </div>
-
-
-
 <div>
  <p align="center">
 <a href="https://beacons.ai/carlargm">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlargm&show_icons=true&theme=radical&includ_ali_comits=true&count_private=true"> 
  <a href="https://github.com/carlargm/github-readme-stats">
-   <br>
-   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlargm&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
-  </a>
-  
+    <img  height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlargm&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
+  </a> 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/inviicta-viic-hero-twitch-hero-super-hero-gif-24937814.gif" alt="Uncle Iroh" width="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanMyejBoNTN4emt1bDF5NXFwZ3Blb3c5ejNqYjd4cjh6YWVlZHcxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Uncle Iroh" width="400" />
 </p>
 </dif>
-  
   <h2>Contact:
  <a href="https://github.com/carlargm"></a>
     <p align="center">
   <a href="https://www.instagram.com/carla.moreira3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:loka-gm1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carla-regina123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
+</div> 
+    
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
