@@ -6,8 +6,7 @@
 <p align="center"> 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV1MmhrMG82bHhmdmJxdmt2bmcyZHRyeTI3bGEwb2NvbnQ1ejVwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njZPp4pQ0g4fe/giphy.gif" width="1000">
 
-<p align="center"> 
-<h1>About me:</h1>
+<h1 align="center">About me:</h1>
 
 <a href="https://github.com/carlargm">   
   <img align="right" src="https://tenor.com/pt-BR/view/coding-gif-25731151.gif" width="180">
@@ -16,7 +15,7 @@
 <p align="center">Currently, I am further enriching my academic baggage, studying Software Engineering 🚀.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
- <h1>I'm learning:</h1>
+ <h1 align="center">I'm learning:</h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
